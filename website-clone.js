@@ -1,0 +1,1 @@
+javascript:(function(){var t=window.open();t.document.open(),t.document.write(document.documentElement.outerHTML),t.document.close()})();
